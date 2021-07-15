@@ -12,12 +12,12 @@ Simple dmenu based timer
 
 #### Timer Screen shot
 
-## timer menu
+##### timer menu
 ![dtimer](https://github.com/viyoriya/dmenuTimer/blob/main/screenshots/2021-07-15-11-30-13.png)
 
-## displaying the remaining time in systray
+##### displaying the remaining time in systray
 ![dtimer](https://github.com/viyoriya/dmenuTimer/blob/main/screenshots/2021-07-15-11-24-04.png)
 
-## timer done and removed from systray
+##### timer done and removed from systray
 ![dtimer](https://github.com/viyoriya/dmenuTimer/blob/main/screenshots/2021-07-15-11-27-33.png)
 
