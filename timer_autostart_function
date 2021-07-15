@@ -2,7 +2,8 @@
 
 #Init : github.com/viyoriya/dmenuTimer
 
-# Add this variable and function  in dwm autostart.sh or dwm startup script
+# Add this variable and function in dwm autostart.sh or dwm startup script 
+# Dont forget to call the timer function
 
 #======= Start =========
 timerFile="/tmp/.timerFile" #move it to ~/.config/ so it will be persisted even after reboot
